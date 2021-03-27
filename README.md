@@ -3,14 +3,14 @@
 
 ![image](https://user-images.githubusercontent.com/40186019/111051797-83d6f280-8434-11eb-9141-439449651739.png)
 
-## Desafio 1 do Ignite, trilha React
+## Ignite Challenge 1 (module 1 challenge 1)
 
 
 
-## Tecnologias
+##  Technology
 - React
 
-1. Faça clone do projeto;
+1. Clone the project;
 
   ```
   yarn
@@ -18,4 +18,5 @@
   http://localhost:8080
 
   ``` 
-Criado por:- [Camila Sbrussi](https://github.com/camisbrussi/) com auxilio da Rocketseat!
+
+Created by:- [Camila Sbrussi](https://github.com/camisbrussi/) with assistance from Rocketseat!
