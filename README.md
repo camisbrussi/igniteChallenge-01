@@ -16,7 +16,7 @@ Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu a
 
   ```
   yarn
-  yarn run dev
+  yarn dev
   http://localhost:8080
 
   ``` 
